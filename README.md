@@ -25,11 +25,18 @@ the output is
     
 ## Constraint
 
-1 <= s <= 81
+ - 1 <= s <= 81
 
-s is comprised only of characters in the range ascii\[a-z].
+ - s is comprised only of characters in the range ascii [a-z].
 
 ## Solution
 This requires me to place the sentence in the R x C matrix by row, but print out by column. Using math, we can know that it just needs to print out the letters by skipping R letters.
 
-the full solution script is provided [here](Solution.java)
+The full solution script is provided **[here](https://github.com/ZiyiLiao/Encryption/blob/master/Solution.java)**
+
+## Sample Case
+
+#### Case 0
+
+
+
