@@ -4,7 +4,8 @@ A solution to solve the encryption
 ## Definition
 An English text needs to be encrypted using the following encryption scheme. First, the spaces are removed from the text. Let be the length of this text. Then, characters are written into a grid, whose rows and columns have the following constraints:
 
-  $\ceil{\sqrt{L}}$
+  h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+  
   
 For example, the sentence
 
