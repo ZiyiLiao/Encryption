@@ -4,7 +4,8 @@ A solution to solve the encryption
 ## Definition
 An English text needs to be encrypted using the following encryption scheme. First, the spaces are removed from the text. Let be the length of this text. Then, characters are written into a grid, whose rows and columns have the following constraints:
 
-  \ceil{\sqrt{L}}
+  $\ceil{\sqrt{L}}$
+  
 For example, the sentence
 
 s = if man was meant to stay on the ground god would have given us roots, after removing spaces is 54 characters long. SQRT(54) is between 7 and 8, so it is written in the form of a grid with 7 rows and 8 columns.
